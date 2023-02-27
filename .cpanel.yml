@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/demoradiantnepal/fenfitnepal.com/
+    - export DEPLOYPATH=/home/fenfitnepal/public_html/
     - /bin/cp -r * $DEPLOYPATH
  
