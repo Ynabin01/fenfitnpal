@@ -96,7 +96,8 @@
             @endif
 
              <!-- <div class="container"> -->
-                <div class="row section-heading-wrapper margin-bottom-24">
+                
+                {{-- <div class="row section-heading-wrapper margin-bottom-24">
 
                     <div class="col-md-12 col-sm-12 text-left no-img-separator">
                         <h2>Province 1 Member</h2>
@@ -342,7 +343,7 @@
 
                     </div>
 
-                </div> <!-- end .row  -->
+                </div>   --}}
 
             <!-- </div> -->
              
